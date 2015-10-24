@@ -1,0 +1,11 @@
+MQTT is a lightweight protocol that’s ideal for the Internet of Things.
+
+MQTT is based on the publish-subscribe model. This is quite different from the typical network protocol models where a connection is established, after which the client requests the server for information directly, and the server sends back information to the client’s IP address directly. In case of MQTT, nodes connect to a broker and subscribe to a topic. Then they wait. If a node publishes to the same topic in the node, all the other nodes who had subscribed to it receive it.
+
+In the diagram below, Node 5 publishes “Hi!” to the topic “hello/world/”, and Node 1 and Node 3 receive the message since they are subscribing to the topic.
+
+"""""Insert fig here"""""
+
+There are various public brokers out there, here we use the broker- test.mosquitto.org.
+Its an Open Source MQTT broker, Mosquitto. It’s now been donated to the Eclipse Paho project. 
+

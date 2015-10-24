@@ -1,0 +1,20 @@
+
+Raspberry Pi is a small, single-board computer developed for computer science education. A United Kingdom (UK) charitable organization called the Raspberry Pi Foundation developed the device. 
+Raspberry PI is about the size of a credit card, has a 32-bit ARM processor and uses a Fedora distribution of Linux for its default operating system (OS). It can be programmed with Python or any other language that will compile for ARM v6.
+
+The Raspberry Pi computer is essentially a system-on-a-chip (SoC) with connection ports. It can be operated by hooking up a USB keyboard and plugging the computer into a television.
+
+Specifications:
+
+    A 900MHz quad-core ARM Cortex-A7 CPU
+    1GB RAM
+	4 USB ports
+    40 GPIO pins
+    Full HDMI port
+    Ethernet port
+    Combined 3.5mm audio jack and composite video
+    Camera interface (CSI)
+    Display interface (DSI)
+    Micro SD card slot
+    VideoCore IV 3D graphics core
+
